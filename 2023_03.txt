@@ -12,6 +12,30 @@
 Change Log
 
 
+2023/03/30 #1 : 2023/03/31
+
+
+BUGFIX
+
+
+	mac/n_txtbox.c
+		N_MAC_TXTBOX_MODE_FINDBOX : Delete
+			OLD : delegate error
+			NEW : fixed
+			[!] : an option is added
+
+	Nyaagle for Mac
+		Search UI : magnifier button
+			OLD : not working
+			NEW : fixed
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2023/03/30
 
 
