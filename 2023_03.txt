@@ -12,6 +12,24 @@
 Change Log
 
 
+2023/03/30 #2 : 2023/04/01
+
+
+BUGFIX
+
+
+	Nonnon Paint for Mac
+		F2 : Fork : a UTF-8 name like japanese characters
+			OLD : a path name is broken / you cannot save
+			NEW : fixed
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2023/03/30 #1 : 2023/03/31
 
 
